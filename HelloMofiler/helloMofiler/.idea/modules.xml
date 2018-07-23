@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HelloMofiler.iml" filepath="$PROJECT_DIR$/../HelloMofiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloMofiler.iml" filepath="$PROJECT_DIR$/helloMofiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mofiler-sdk/mofiler-sdk.iml" filepath="$PROJECT_DIR$/../mofiler-sdk/mofiler-sdk.iml" />
+    </modules>
+  </component>
+</project>
